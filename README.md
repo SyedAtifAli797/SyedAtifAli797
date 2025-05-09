@@ -18,17 +18,7 @@ I’m an **AI/ML Developer & Data Scientist** with hands-on experience in buildi
 - Contributing to open-source ML projects and model hubs  
 - Improving model generalization across diverse datasets  
 - Exploring scalable deployment strategies for AI models  
-
-### 🌱 I’m currently learning
-- Advanced techniques in NLP and Computer Vision  
-- Best practices in feature engineering and data preprocessing  
-- Efficient model deployment and monitoring in production  
-
-### 💬 Ask me about
-- Deep Learning (CNN, RNN, LSTM, Transformers, Transfer Learning)  
-- NLP applications like text summarization and chatbot development  
-- AI product workflows from training to deployment  
-
+ 
 ### ⚡ Fun fact
 I enjoy simplifying complex AI concepts for others and turning abstract ideas into working prototypes!
 
