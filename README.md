@@ -1,6 +1,6 @@
 # 🚀 Emerging AI/ML Developer | Data Scientist
 
-I’m an **AI/ML Developer & Data Scientist** with hands-on experience in building machine learning and deep learning models for real-world applications. My strengths lie in **predictive modeling, NLP, computer vision**, and deploying solutions using tools like **Streamlit, FastAPI**, and **Hugging Face**. I’m skilled in **TensorFlow, Keras, Scikit-learn**, and have worked extensively with **CNNs, RNNs, LSTMs, Transformers**, and **Transfer Learning**. I’m passionate about solving complex problems and continuously exploring new AI technologies.
+I’m an **AI/ML Developer & Data Scientist** with hands-on experience in building machine learning and deep learning models for real-world applications. My strengths lie in **predictive modeling, NLP, computer vision**, and deploying solutions using tools like **Streamlit, FastAPI**, and **Hugging Face**. I’m skilled in **TensorFlow, Keras, Scikit-learn**, and have worked extensively with **CNNs, RNNs, LSTMs, Transformers, LLMs**, and **Transfer Learning**. I’m passionate about solving complex problems and continuously exploring new AI technologies.
 
 ---
 
